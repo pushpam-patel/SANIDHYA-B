@@ -1,0 +1,29 @@
+.mainbox{
+    border: 2px solid rgb(255,255,255);
+    width: 100%
+    height: 2em;
+    margin-top: -5px;
+}
+
+.box{
+    box-sizing: border-box;
+    width: 50%;
+    
+    float: left;
+}
+
+hr{
+   display: block;
+   border-style: inset;
+   border-width: 10px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 10%;
+}
+#container {
+    overflow:auto;
+}
